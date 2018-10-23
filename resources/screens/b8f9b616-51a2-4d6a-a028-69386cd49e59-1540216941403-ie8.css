@@ -1,0 +1,98 @@
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-vroomLogo {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-broughtVroomTxt {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-yesBtn {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70) ;
+  filter: alpha(opacity=70) ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-noBtn {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70) ;
+  filter: alpha(opacity=70) ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-signInBtn {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-topBox {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-time {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-percentage {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-signal {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-wifi {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-m1 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-battery {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-bluetooth {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-title {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

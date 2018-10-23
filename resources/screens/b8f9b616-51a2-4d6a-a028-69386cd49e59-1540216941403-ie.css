@@ -1,0 +1,93 @@
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-vroomLogo {
+  -ms-transform: rotate(0.0deg);
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-broughtVroomTxt {
+  -ms-transform: rotate(0.0deg);
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-yesBtn {
+  border-radius: 0px 0px 0px 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  height: 111px;
+  width: 315px;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
+  filter: alpha(opacity=70);
+  -ms-transform: rotate(0.0deg);
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-noBtn {
+  border-radius: 0px 0px 0px 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  height: 111px;
+  width: 315px;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
+  filter: alpha(opacity=70);
+  -ms-transform: rotate(0.0deg);
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-signInBtn {
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: #684460;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: #684460;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #684460;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: #684460;
+  border-radius: 23px 23px 23px 23px;
+  padding-top: 12px;
+  padding-right: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  height: 22px;
+  width: 280px;
+  -ms-transform: rotate(0.0deg);
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-topBox {
+  -ms-transform: rotate(0.0deg);
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-time {
+  -ms-transform: rotate(0.0deg);
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-percentage {
+  -ms-transform: rotate(0.0deg);
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-signal {
+  -ms-transform: rotate(0.0deg);
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-wifi {
+  -ms-transform: rotate(0.0deg);
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-m1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-battery {
+  -ms-transform: rotate(0.0deg);
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-bluetooth {
+  -ms-transform: rotate(0.0deg);
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 #s-title {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-b8f9b616-51a2-4d6a-a028-69386cd49e59 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
